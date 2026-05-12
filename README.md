@@ -6,7 +6,7 @@
 
 
 
-- 💖 **Love triangle** with 😍 **C++**, 🐍 **Python**, and ☕ **Java**
+- 💖 **Love** **C++**, 🐍 **Python**, and ☢️ **Rust**
 
 
 <p align="left">
