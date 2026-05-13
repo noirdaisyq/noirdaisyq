@@ -15,19 +15,6 @@
 <p>
 </p>  
   
-</p>
-
-<h3 align="left"> <i>Platforms and Favorite Games:</i> </h3>
-
-<p align="left"> <a href="https://store.steampowered.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-icon.svg" alt="steam" width="40" height="40"/> </a> 
-<a href="https://witcher.fandom.com/wiki/The_Witcher_3:_Wild_Hunt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg" alt="witcher" width="40" height="40"/> </a>
-<a href="https://forza.fandom.com/wiki/Forza_Horizon_5" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/8/86/Forza_Horizon_5_cover_art.jpg" alt="forza" width="40" height="40"/> </a>
-<a href="https://store.steampowered.com/app/374320/DARK_SOULS_III/" target="_blank" rel="noreferrer"> <img src="https://image.api.playstation.com/cdn/EP0700/CUSA03365_00/OFMeAw2KhrdaEZAjW1f3tCIXbogkLpTC.png" alt="soul 3" width="40" height="40"/> </a>
-<a href="https://store.steampowered.com/app/812140/Assassins_Creed_Odyssey/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/9/99/ACOdysseyCoverArt.png" alt="assassin" width="40" height="40"/> </a>
-<a href="https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg" alt="red" width="40" height="40"/> </a>
-<a href="https://www.cyberpunk.net/au/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg" alt="2077" width="40" height="40"/> </a>
-  
-</p>
 
 <p>
 
